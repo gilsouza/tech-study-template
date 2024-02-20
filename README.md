@@ -24,26 +24,25 @@ To facilitate the construction of the project, this repository provides a mock s
 
 ```sh
   cd mock-server
-  yarn install
-  yarn start
+  yarn install && yarn start
 ```
 
 ### Mock-server API
 
-#### GET /tasks
+#### [GET] /tasks
 
-#### GET /tasks/:id
+#### [GET] /tasks/:id
 
-#### GET /tasks/:id
+#### [GET] /tasks/:id
 
-#### POST /tasks
+#### [POST] /tasks
 
-#### DELETE /tasks/:id
+#### [DELETE] /tasks/:id
 
-#### PATCH /tasks/:id
+#### [PATCH] /tasks/:id
 
-#### PUT /tasks/:id
+#### [PUT] /tasks/:id
 
-#### POST /tasks/:id/done
+#### [POST] /tasks/:id/done
 
-#### DELETE /tasks/:id/done
+#### [DELETE] /tasks/:id/done
