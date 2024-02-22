@@ -10,11 +10,19 @@ Based on this concept, interested individuals can fork the project to explore an
 
 ## Checklist
 
+- [ ] Layout implementation
+- [ ] Animations
 - [ ] HTTP Client and fetch data
 - [ ] Cache/Offline Data
 - [ ] Dark and Light Theme
 - [ ] State management
 - [ ] Native Features like a Network status
+
+## Figma
+
+To help you focus on what matters, we provide a simple layout that can be followed or used as a base. But the focus is studying. Feel free to play and let your imagination run wild =)
+
+https://www.figma.com/file/awNKPCHrjZLBh7bQhtJLAR/Mobile?type=design&node-id=0%3A1&mode=design&t=iHKtaTVvMeBzJONP-1
 
 ## Mock Server
 
