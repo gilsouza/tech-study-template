@@ -8,10 +8,11 @@ The aim of this project is to provide a fundamental framework, serving as a guid
 
 Based on this concept, interested individuals can fork the project to explore and study the application's implementation across different frameworks and platforms, including Ionic, React Native, Kotlin Multiplatform (KMP), Angular for web applications, Next.js, among others.
 
-## Checklist
+## Checklist Suggestion
 
 - [ ] Layout implementation
 - [ ] Animations
+- [ ] Screen Navigation
 - [ ] HTTP Client and fetch data
 - [ ] Cache/Offline Data
 - [ ] Dark and Light Theme
