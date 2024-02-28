@@ -23,7 +23,7 @@ Based on this concept, interested individuals can fork the project to explore an
 
 To help you focus on what matters, we provide a simple layout that can be followed or used as a base. But the focus is studying. Feel free to play and let your imagination run wild =)
 
-https://www.figma.com/file/awNKPCHrjZLBh7bQhtJLAR/Mobile?type=design&node-id=0%3A1&mode=design&t=iHKtaTVvMeBzJONP-1
+[Example project in figma](https://www.figma.com/file/awNKPCHrjZLBh7bQhtJLAR/Mobile?type=design&node-id=0%3A1&mode=design&t=iHKtaTVvMeBzJONP-1)
 
 ## Mock Server
 
@@ -39,8 +39,6 @@ To facilitate the construction of the project, this repository provides a mock s
 ### Mock-server API
 
 #### [GET] /tasks
-
-#### [GET] /tasks/:id
 
 #### [GET] /tasks/:id
 
